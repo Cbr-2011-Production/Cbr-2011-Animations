@@ -1,3 +1,5 @@
+@import url('https://fonts.cdnfonts.com/css/hemi-head-426');
+
 /* Place your CSS styles in this file */
 
 h1, h2 {
@@ -7,4 +9,7 @@ h1, h2 {
 p {
    font-family: sans-serif;}
 a {font-family: sans-serif;}
-body { margin:0 auto; }
+body {
+    max-width: max-content;
+    margin: auto;
+    }

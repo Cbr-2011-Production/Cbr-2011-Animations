@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'Hemi Head';
-    src: url("https://github.com/Cbr-2011-Production/Cbr2011Animations.github.io/blob/main/assets/css/fonts/Hemi-Head.ttf");
+    src: url('assets/fonts/HemiHead.woff2')
+    font-weight: normal;
+    font-style: normal;
   }
 h1, h2 {
     font-family: sans-serif;

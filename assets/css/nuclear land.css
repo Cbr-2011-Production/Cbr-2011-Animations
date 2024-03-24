@@ -1,0 +1,29 @@
+h2, h3 {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+p {
+   font-family: sans-serif;}
+a {
+    -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: black;
+    font-family: sans-serif; text-decoration: none;}
+body {
+    background-color: gray;
+    text-align: center;
+    }
+
+  div
+    {
+        border-radius: 25px;
+    }
+    .episode
+    {
+        display: flex;
+        color: white;
+        text-align: left;
+    }
+    h1
+    {font-family: sans-serif;
+     padding: 50px;
+    }

@@ -1,4 +1,4 @@
-h1, h2 {
+h1, h2, h3 {
     font-family: sans-serif;
     font-weight: normal;
 }
@@ -6,6 +6,5 @@ p {
    font-family: sans-serif;}
 a {font-family: sans-serif;}
 body {
-    max-width: max-content;
-    margin: auto;
+    text-align: center;
     }

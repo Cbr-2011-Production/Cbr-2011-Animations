@@ -8,9 +8,7 @@ a {font-family: sans-serif; text-decoration: none; color: white;}
 body {
     text-align: center;
     }
-
-    img {
+img {
         max-width: 100%;
-        height: auto;
-    }
+        height: auto;}    
     
